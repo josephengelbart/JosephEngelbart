@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/joey-engelbart-054886383?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNI4Kg7eJRTKaWdjO0lvJ7Q%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Senior at Wayne State College pursuing a B.S. in Networking/Cybersecurity with a minor in Computer Science. I am actively using virtual machines such as Kali Linux, Windows 11, and Windows Server 2019 Active Directory to practice penetration testing techniques and simulate attack scenarios along with my PenTest+ studies. I passed the Security+ exam in November of 2025, and I am currently preparing to take the PenTest+ Exam before graduating in May.
+Senior at Wayne State College pursuing a B.S. in Networking/Cybersecurity with a minor in Computer Science. I am actively using virtual machines such as Kali Linux, Windows 11, Windows 7, and Windows Server 2019 Active Directory to practice penetration testing techniques and simulate attack scenarios along with my PenTest+ studies. I passed the Security+ exam in November of 2025, and I am currently preparing to take the PenTest+ Exam before graduating in May.
 
 ## Objective
 
