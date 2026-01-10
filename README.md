@@ -13,9 +13,8 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Server AD Installation and Configuration          | <a href="https://github.com/josephengelbart/Windows-Server-AD-Installation-and-Configuration">Active Directory Lab Setup (Windows Server 2019)</a>|
-| Password Cracker Lab | <a href="https://google.com">Detection Lab</a>|
-| Honey Pot Lab         | SOC Automation Lab|
-| Windows Server AD Exploit Lab      | SOC Automation Lab|
+| MS17-010 (ExternalBlue) Vulnerability Scanning and Exploitation   | <a href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">ExternalBlue Exploit Lab</a>|
+
 
 ## Tools
 
@@ -68,3 +67,4 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 
 ## Projects
 - <a href="https://github.com/josephengelbart/Windows-Server-AD-Installation-and-Configuration">Active Directory Lab Setup (Windows Server 2019)</a>: This lab focuses on installing and configuring a Windows Server 2019 Active Directory
+- <a href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">ExternalBlue Exploit Lab</a>: This lab focuses on the scanning, vulnerability assessment, and the exploitation of EternalBlue on a Windows 7 VM with Kali being the attacker. 
