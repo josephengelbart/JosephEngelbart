@@ -46,4 +46,4 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 </div>
 
 ## Projects
-- <a href="https://github.com/josephengelbart/Windows-Server-AD-Installation-and-Configuration">Active Directory Lab Setup (Windows Server 2019)</a>
+- <a href="https://github.com/josephengelbart/Windows-Server-AD-Installation-and-Configuration">Active Directory Lab Setup (Windows Server 2019)</a>: This lab focuses on installing and configuring a Windows Server 2019 Active Directory
