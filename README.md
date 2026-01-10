@@ -12,7 +12,7 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Windows Server AD Installation and Configuration          | <a href="https://google.com">Active Directory Lab Setup (Windows Server 2019)</a>|
+| Windows Server AD Installation and Configuration          | <a href="https://github.com/josephengelbart/Windows-Server-AD-Installation-and-Configuration">Active Directory Lab Setup (Windows Server 2019)</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
