@@ -9,11 +9,10 @@ Senior at Wayne State College pursuing a B.S. in Networking/Cybersecurity with a
 My studies in Networking and Cybersecurity have shown me this is an industry I want to contribute to and make a difference. I aspire to become a Pentester and to spread Cybersecurity awareness whenever possible. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Windows Server AD Installation and Configuration          | <a href="https://google.com">Active Directory Lab Setup (Windows Server 2019)</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
