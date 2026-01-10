@@ -21,10 +21,19 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Packet_Tracer-1F5FAB?&style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco_Networking-0B5FFF?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
+
+### Cybersecurity
+<div>
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-005F87?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hydra-000000?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Netcat-333333?&style=for-the-badge&logoColor=white" />
+</div>
+
 
 
 
