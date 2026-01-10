@@ -30,7 +30,6 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/bed70749-90e0-4c0a-a754-3eab9ff2d656/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -38,5 +37,4 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/josephengelbart/Windows-Server-AD-Installation-and-Configuration">Active Directory Lab Setup (Windows Server 2019)</a>
