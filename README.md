@@ -1,14 +1,12 @@
 # Hello, I'm Joey
 <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BjTAOGdz8SuWrY6MEoGZ2sA%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Senior at Wayne State College pursuing a B.S. in Networking/Cybersecurity with a minor in Computer Science. I am actively using virtual machines such as Kali Linux, Windows 11, and Windows Server 2019 Active Directory to practice penetration testing techniques and simulate attack scenarios along with my PenTest+ studies. I passed the Security+ exam in November of 2025, and I am currently preparing to take the PenTest+ Exam before graduating in May.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My studies in Networking and Cybersecurity have shown me this is an industry I want to contribute to and make a difference. I aspire to become a Pentester and to spread Cybersecurity awareness whenever possible. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
