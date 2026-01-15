@@ -13,7 +13,7 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Server AD Installation and Configuration          | <a href="https://github.com/josephengelbart/Windows-Server-AD-Installation-and-Configuration">Active Directory Lab Setup (Windows Server 2019)</a>|
-| MS17-010 (ExternalBlue) Vulnerability Scanning and Exploitation   | <a href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">ExternalBlue Exploit Lab</a>|
+| MS17-010 (ExternalBlue) Vulnerability Scanning and Exploitation   | <a href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">EternalBlue Exploit Lab</a>|
 
 
 ## Tools
