@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/joey-engelbart-054886383?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNI4Kg7eJRTKaWdjO0lvJ7Q%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Senior at Wayne State College pursuing a B.S. in Networking/Cybersecurity with a minor in Computer Science. I am actively using virtual machines such as Kali Linux, Windows 11, and Windows 7to practice penetration testing techniques and simulate attack scenarios along with my PenTest+ studies. I passed the Security+ exam in November of 2025, and I am currently preparing to take the PenTest+ Exam before graduating in May.
+Senior at Wayne State College pursuing a B.S. in Networking/Cybersecurity with a minor in Computer Science. I am actively using virtual machines such as Kali Linux, Windows 11, and Windows 7 to practice penetration testing techniques and simulate attack scenarios along with my PenTest+ studies. I passed the Security+ exam in November of 2025, and I am currently preparing to take the PenTest+ Exam before graduating in May.
 
 ## Objective
 
@@ -12,7 +12,6 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| 
 | MS17-010 (EternalBlue) Vulnerability Scanning and Exploitation   | <a href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">EternalBlue Exploit Lab</a>|
 
 
@@ -66,5 +65,4 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 </div>
 
 ## Projects
-- 
 - <a href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">ExternalBlue Exploit Lab</a>: This lab focuses on the scanning, vulnerability assessment, and the exploitation of EternalBlue on a Windows 7 VM with Kali being the attacker. 
