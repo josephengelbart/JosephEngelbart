@@ -56,6 +56,3 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 </div>
-
-## Projects
-- <a href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">ExternalBlue Exploit Lab</a>: This lab focuses on the scanning, vulnerability assessment, and the exploitation of EternalBlue on a Windows 7 VM with Kali being the attacker. 
