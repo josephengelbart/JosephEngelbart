@@ -8,16 +8,16 @@ Senior at Wayne State College pursuing a B.S. in Networking/Cybersecurity with a
 
 My studies in Networking and Cybersecurity have shown me this is an industry I want to contribute to and make a difference. I aspire to become a Pentester and to spread Cybersecurity awareness whenever possible. 
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| MS17-010 (EternalBlue) Vulnerability Scanning and Exploitation   | <a href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">EternalBlue Exploit Lab</a>|
+| Project                        |Link|         
+|--------------------------------|----------------------------|
+|EternalBlue                     |This lab focuses on the scanning, vulnerability assessment, and the exploitation of EternalBlue on a Windows 7 VM with Kali being the attacker. <a                                        href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">EternalBlue Exploit Lab
 
 
 ## Tools
 
-### Network
+### Networking
 <div>
 
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
@@ -42,10 +42,6 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 
   <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
     <img src="https://img.shields.io/badge/-Hydra-000000?&style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://nc110.sourceforge.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Netcat-333333?&style=for-the-badge&logoColor=white" />
   </a>
 </div>
 
