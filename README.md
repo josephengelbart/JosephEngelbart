@@ -12,8 +12,8 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 
 | Name                           |Link|         
 |--------------------------------|----------------------------|
-|EternalBlue                     |This lab focuses on the scanning, vulnerability assessment, and the exploitation of EternalBlue on a Windows 7 VM with Kali being the attacker. <a                                        href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">EternalBlue Exploit Lab
-|Capstone Network Project        | <a href="https://github.com/josephengelbart/Capstone-Network-Design-"
+|Capstone Network Design         |This project focuses on designing, configuring, and documenting a full network using Cisco routers and switches. The environment includes multi‑area                                      OSPF routing, VLAN segmentation, DHCP services, ACL‑based traffic control, EtherChannel, redundant routing, and a wireless network extension. <a                                          href="https://github.com/josephengelbart/Capstone-Network-Design-/blob/main/README.md"> Capstone Network Design|
+|EternalBlue                     |This lab focuses on the scanning, vulnerability assessment, and the exploitation of EternalBlue on a Windows 7 VM with Kali being the attacker. <a                                        href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">EternalBlue Exploit Lab|
 
 
 ## Tools
