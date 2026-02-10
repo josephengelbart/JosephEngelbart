@@ -12,7 +12,7 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 | Name                           |Link|         
 |--------------------------------|----------------------------|
 |Capstone Network Design         |This project focuses on designing, configuring, and documenting a full network using Cisco routers and switches. The environment includes multi‑area OSPF routing, VLAN segmentation, DHCP services, ACL‑based traffic control, EtherChannel, redundant routing, and a wireless network extension. <a href="https://github.com/josephengelbart/Capstone-Network-Design-/blob/main/README.md">Capstone Network Design
-|Kali-Windows-Wireshark-Lab      | This simple project shows the output of Wireshark when the Kali Vm succesfully and unsuccesfully pings the Windows 11 Vm. <a href="https://github.com/josephengelbart/Kali-Windows-Wireshark-Lab/edit/main/README.md(https://github.com/josephengelbart/Kali-Windows-Wireshark-Lab)">Kali-Windows-Wireshark-Lab
+|Kali-Windows-Wireshark-Lab      | This simple project shows the output of Wireshark when the Kali Vm succesfully and unsuccesfully pings the Windows 11 Vm. <a href="https://github.com/josephengelbart/Kali-Windows-Wireshark-Lab">Kali-Windows-Wireshark-Lab
 |EternalBlue                      |This lab focuses on the scanning, vulnerability assessment, and the exploitation of EternalBlue on a Windows 7 VM with Kali being the attacker. <a                                        href="https://github.com/josephengelbart/EternalBlueExploit/blob/main/README.md">EternalBlue Exploit Lab
 
 
