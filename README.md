@@ -29,6 +29,9 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
   <a href="https://www.cisco.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Cisco_Networking-0B5FFF?&style=for-the-badge&logo=Cisco&logoColor=white" />
   </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+</a>
 </div>
 
 
