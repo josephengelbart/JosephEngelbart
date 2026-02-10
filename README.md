@@ -41,9 +41,7 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
     <img src="https://img.shields.io/badge/-Nmap-005F87?&style=for-the-badge&logo=Nmap&logoColor=white" />
   </a>
 
-  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
-    <img src="https://img.shields.io/badge/-Hydra-000000?&style=for-the-badge&logoColor=white" />
-  </a>
+  
 </div>
 
 
