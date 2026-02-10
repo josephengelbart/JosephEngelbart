@@ -58,4 +58,7 @@ My studies in Networking and Cybersecurity have shown me this is an industry I w
 <a href="https://www.credly.com/badges/bed70749-90e0-4c0a-a754-3eab9ff2d656/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
+<a href="https://www.credly.com/badges/bbedadea-07b3-41d6-9406-5df5e3e3f52f/linked_in?t=ta463o" target="_blank">
+  <img src="https://img.shields.io/badge/-AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+</a>
 </div>
